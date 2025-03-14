@@ -1,5 +1,4 @@
 # credit-card-behaviour-score
-# Predicting Bad Flags Using Random Forest Classifier
 
 This project aims to predict the likelihood of a "bad flag" for given accounts using a Random Forest Classifier. The dataset is cleaned, preprocessed, and modeled using Python libraries like pandas, scikit-learn, and seaborn.
 
